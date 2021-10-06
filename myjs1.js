@@ -46,7 +46,7 @@ cruelty:" жестокость    ",
 prejudicial:"пагубный     ",
 faded:"    блеклый ",
 soiled:"   испачканный  ",
-coshions:"    подушка ",
+cushion:"    подушка ",
 manfully:"   мужественно  ",
 };
 //document.getElementById("spared").innerText = "777"
