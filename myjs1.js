@@ -39,6 +39,15 @@ var words3 = {
   endurance: "выносливость",
   goad: "подстрекать",
   nostrils: " ноздри",
+  discernible:"    различимый ",
+elaborately:"    старательно ",
+perceived:"    профилактика ",
+cruelty:" жестокость    ",
+prejudicial:"пагубный     ",
+faded:"    блеклый ",
+soiled:"   испачканный  ",
+coshions:"    подушка ",
+manfully:"   мужественно  ",
 };
 //document.getElementById("spared").innerText = "777"
 
